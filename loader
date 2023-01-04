@@ -1,1 +1,8 @@
-
+local gamelist = {
+    [994732206]  = "",
+    [498490399] = "
+}
+local checkgame = gamelist[game.gameId]
+if gamelist[game.gameId] then 
+    loadstring(game:HttpGet(checkgame))()
+end
