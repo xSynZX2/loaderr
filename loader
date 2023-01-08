@@ -1,6 +1,6 @@
 local gamelist = {
     [994732206] = "https://raw.githubusercontent.com/xSynZX2/BloxFruits/main/Squidhub",
-    [498490399] = "https://raw.githubusercontent.com/xSynZX2/Madcity-ReX/main/SquidHub",
+    [498490399] = "https://raw.githubusercontent.com/xSynZX2/BloxFruits/main/Squidhub",
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
