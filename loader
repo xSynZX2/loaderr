@@ -1,7 +1,7 @@
 local gamelist = {
     [994732206] = "https://raw.githubusercontent.com/xSynZX2/BloxFruits/main/Squidhub",     
     [498490399] = "https://raw.githubusercontent.com/xSynZX2/Madcity-List-X/main/Squidhub",
-    [6839171747] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Dewgt/-Doorsv0.2/main/6839171747quidHub.lua"))()"
+    [6839171747] = ""
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
